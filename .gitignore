@@ -221,3 +221,7 @@ __marimo__/
 
 # Frost API credentials
 client_id.txt
+
+# Local editor settings and credentials
+.vscode/
+client_id.txt
