@@ -225,3 +225,4 @@ client_id.txt
 # Local editor settings and credentials
 .vscode/
 *client_id*.txt
+.DS_Store
